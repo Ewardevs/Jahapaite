@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Rio de Janeiro",
+    "country": "Brasil",
+    "description": "Disfruta de sus hermosas playas y el Cristo Redentor",
+    "price": 899,
+    " days": 5,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "title": "Machu Picchu",
+    "country": "Perú",
+    "description": "Explora las ruinas incas más famosas del mundo",
+    "price": 1099,
+    "days": 7,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "title": "Chile",
+    "country": "Chile",
+    "description": "Descubre paisajes desde el desierto hasta la Patagonia",
+    "price": 999,
+    "days": 6,
+    "image": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Ana García",
+        "location": "Rio de Janeiro",
+        "comment": "Increíble experiencia en Rio de Janeiro. Todo estuvo perfectamente organizado.",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Juan Ramirez",
+        "location": "Curitiva",
+        "comment": "Increíble experiencia en Rio de Janeiro. Todo estuvo perfectamente organizado.",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "Pepe Mendoza",
+        "location": "Amare",
+        "comment": "Increíble experiencia en Rio de Janeiro. Todo estuvo perfectamente organizado.",
+        "rating": 5
+    }
+]
